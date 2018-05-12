@@ -1,0 +1,37 @@
+_repo: The-Knights-of-the-White-ShieldUp-the-Ladder-Club-Series-Round-One-Play_14903
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rand, Edward A. (Edward Augustus)
+    aliases:
+    - Rand, Edward Augustus
+    - Edward A. Rand
+    birthdate: 1837
+    deathdate: 1903
+    gutenberg_agent_id: '5742'
+    url: http://www.gutenberg.org/2009/agents/5742
+description: ''
+gutenberg_issued: '2005-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14903'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Boys -- Societies and clubs -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcsh 'African Americans -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Play -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+title: 'The Knights of the White Shield
+
+  Up-the-Ladder Club Series, Round One Play'
+url: http://www.gutenberg.org/ebooks/14903
