@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '5742'
     url: http://www.gutenberg.org/2009/agents/5742
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14903#The-Knights-of-the-White-ShieldUp-the-Ladder-Club-Series-Round-One-Play
 gutenberg_issued: '2005-02-04'
 gutenberg_type: Text
 identifiers:
